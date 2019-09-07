@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VakifBankEntegrasyon", "VakifBankEntegrasyon\VakifBankEntegrasyon.csproj", "{317D2385-F38D-4F8E-B88A-87FFE2EE93AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317D2385-F38D-4F8E-B88A-87FFE2EE93AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317D2385-F38D-4F8E-B88A-87FFE2EE93AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317D2385-F38D-4F8E-B88A-87FFE2EE93AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317D2385-F38D-4F8E-B88A-87FFE2EE93AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5166DDA9-EF41-423E-99D4-F81103860BC1}
+	EndGlobalSection
+EndGlobal
